@@ -4,7 +4,7 @@
 
 ## 📜 Giới thiệu
 
-ℹ️ Tập đoàn XICT là một công ty hàng đầu trong lĩnh vực công nghệ thông tin và truyền thông, chuyên cung cấp các giải pháp sáng tạo và bền vững cho khách hàng trên toàn cầu. Chúng tôi cam kết mang lại giá trị vượt trội thông qua các sản phẩm và dịch vụ chất lượng cao.
+ℹ️ Tập đoàn XICT là một tập đoàn hàng đầu trong lĩnh vực công nghệ thông tin và truyền thông, chuyên cung cấp các giải pháp sáng tạo và bền vững cho khách hàng trên toàn cầu. Chúng tôi cam kết mang lại giá trị vượt trội thông qua các sản phẩm và dịch vụ chất lượng cao.
 
 ## 🎯 Sứ mệnh
 
