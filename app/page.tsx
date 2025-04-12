@@ -1,10 +1,8 @@
-
-import { Button } from "@/components/ui/button";
+import { Button } from '@/components/ui/button'
 
 export default function Home() {
   return (
     <div className="min-h-screen bg-background text-foreground">
-
       {/* Hero Section */}
       <section className="container mx-auto py-16 text-center">
         <h1 className="text-5xl font-bold mb-4">Welcome to XICT</h1>
@@ -39,7 +37,7 @@ export default function Home() {
               <a href="/field-active">Learn More</a>
             </Button>
           </div>
-          
+
           <div className="p-6 bg-card rounded-lg shadow-md">
             <h3 className="text-xl font-semibold mb-2">News</h3>
             <p className="text-muted-foreground">
@@ -52,5 +50,5 @@ export default function Home() {
         </div>
       </section>
     </div>
-  );
+  )
 }
