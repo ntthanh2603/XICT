@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Chào mừng đến với Tập đoàn XICT
 
-## Getting Started
+![Logo XICT](docs/logo.jpg)
 
-First, run the development server:
+## Giới thiệu
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Tập đoàn XICT là một công ty hàng đầu trong lĩnh vực công nghệ thông tin và truyền thông, chuyên cung cấp các giải pháp sáng tạo và bền vững cho khách hàng trên toàn cầu. Chúng tôi cam kết mang lại giá trị vượt trội thông qua các sản phẩm và dịch vụ chất lượng cao.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Sứ mệnh
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Đổi mới**: Dẫn đầu trong việc áp dụng công nghệ tiên tiến.
+- **Chất lượng**: Đảm bảo các giải pháp đạt tiêu chuẩn cao nhất.
+- **Bền vững**: Góp phần xây dựng một tương lai công nghệ xanh.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Dịch vụ của chúng tôi
 
-## Learn More
+- Cung cấp giải pháp phát triển và bảo trì phần mềm
+- Tư vấn chuyển đổi số
+- Dịch vụ đám mây và lưu trữ dữ liệu
+- An ninh mạng và bảo mật thông tin
 
-To learn more about Next.js, take a look at the following resources:
+## Liên hệ
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Email**: contact@xict.com
+- **Website**: [www.xict.com](https://www.xict.com)
+- **Địa chỉ**: Tòa nhà XICT, 123 Đường Cầu Giấy, TP. Hà Nội, Việt Nam
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Theo dõi chúng tôi
 
-## Deploy on Vercel
+- [LinkedIn](https://www.linkedin.com/in/ntthanh2603/)
+- [Facebook](https://www.facebook.com/ntthanh2603)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+© 2025 Tập đoàn XICT. Mọi quyền được bảo lưu.
